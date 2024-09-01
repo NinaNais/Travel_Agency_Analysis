@@ -22,9 +22,11 @@ The primary dataset used for this example is the"" file, contained detailed trav
 
 ### Tools
 
-
-- SQL Server-Data Analysis
+- SQL Server - Data Analysis
 - PowerBI - Creating Reports
+
+
+
 
 
 ### Exploratory Data Analysis
