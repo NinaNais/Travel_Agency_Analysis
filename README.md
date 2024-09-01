@@ -1,6 +1,18 @@
 # Travel Agency Exploration
 
-## Overview
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Exploratory Data Analysis](exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results/Findings](#resultsfindings)
+- [Limitations](#limitations)
+
+
+### Overview
 
 In this document I am expoloring travel agency databese to present what information can be obtained by using DQL.
 
@@ -32,3 +44,6 @@ EDA involved exploring database to answer questions, such as:
 
 ```
 ### Results/Findings
+
+
+### Limitations
