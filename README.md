@@ -18,7 +18,7 @@ In this document I am expoloring travel agency databese to present what informat
 
 ### Data Sources
 
-The primary dataset used for this example is the"" file, contained detailed travel agency database.
+The primary dataset used for this example is in the "Travel__Agency.zip" folder, contained detailed travel agency database in csv files.
 
 
 ### Tools
