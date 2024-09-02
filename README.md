@@ -9,8 +9,7 @@
 - [Exploratory Data Analysis](exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Results/Findings](#resultsfindings)
-- [Limitations](#limitations)
-
+  
 
 ### Overview
 
@@ -67,7 +66,7 @@ where cena>@avgprice
 ```
 
 ```sql
---  amount of hotels in each standard--
+--  number of hotels in each standard--
 
 select sh.opis,count(h.IdHotel)as Liczba_hoteli
 from Hotel H 
@@ -91,5 +90,23 @@ order by Liczba_udogodnień desc
 
 ### Results/Findings
 
+1. In June 2020 there were 6 offers for 2 persons in 4-star hotels.
+2. The amount of purchases made for an amount higher than the average purchas is 12.
+3. Number of hotels in each standard:
+   
+   |standard|number of hotels|
+   |--------|----------------|
+   |1*|0|
+   |2*|1|
+   |3*|2|
+   |4*|1|
+   |5*|1|
+   |Agroturism|0|
+   |Hostel|0|
 
-### Limitations
+4.Two hotels with most amenities:
+
+   |Hotel|number of amenities|
+   |--------|----------------|
+   |Sentido Mikri Poli Atlantica|10|
+   |Mari Kristin Beach Hotel|9|
